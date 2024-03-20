@@ -1,0 +1,70 @@
+prompt,response
+"What's the difference between the Cody Free, Pro, and Enterprise plans?","Cody Free and Cody Pro are both offered as standalone products. Cody Free is best for individuals working on hobby projects or professional devs trying out AI coding assistants. Usage limits apply.  Cody Pro is best for professional developers who want unlimited usage and context for larger codebases, and Cody Enterprise is for organizations needing security, scalability, and control. It is coming soon for everyone, but is currently available for existing Code Search customers (Contact us if you'd like to learn more)."
+How are autocompletions counted for the Cody Free plan?,Cody autocompletions are counted based on the number of suggestions that are served to the user in their IDE as ghost text. This includes all suggestions whether or not they are accepted by the user.
+How does Cody's context and personalization work?,"Cody can retrieve codebase context to personalize responses in a number of ways. One way is with embeddings, which are generated for local user repositories. Cody Free users can create embeddings for up to 200MB of code and Cody Pro users can create embeddings for up to 1GB of code. Cody Enterprise uses Sourcegraph search to retrieve context. This method lets Cody pull context from a team's full codebase at any scale."
+What forms of support are available for paid Cody plans?,"Email and web portal support is available to both Cody Pro and Cody Enterprise customers, and you can read more about our SLAs. Premium support with enhanced SLAs is also available as an add-on for Cody Enterprise customers."
+How can i pay for Cody Pro?,Cody Pro is billed on a monthly basis and can be paid with a credit card.
+How can i upgrade or downgrade my plans?,"Users can upgrade or downgrade between Cody Free and Cody Pro within their account settings at any time. To upgrade to Cody Enterprise, please contact our Sales team."
+"what's the difference between flexible LLM options, bring your own LLM key, and bring your own LLM? ","Flexible LLM options: Users can select from multiple options to use for Cody chat. Bring your own LLM key: Enterprise customers can optionally provide their own LLM API key for supported LLMs (including for LLM services such as Azure OpenAI and Amazon Bedrock). In this scenario, customers pay for their own LLM consumption and we provide a pricing discount for Cody. Bring your own LLM: This is a future feature that will allow customers to bring their own LLM models outside of the ones that Cody supports by default."
+does Cody use my code to improve the models used by other people?,"For Enterprise customers, Sourcegraph will not train on your company’s data. For Free and Pro tier users, Sourcegraph will not train on your data without your permission."
+Can Cody be run self_hosted?,"Cody requires Cloud-based services to power its AI features. For customers looking for a fully self-hosted or air-gapped solution, please Contact us."
+Is an annual contract required for any of the plans?,Cody Enterprise requires an annual contract. Cody Pro is paid on a monthly basis.
+How many products you own?,there are 3 products
+is this free?,"Yes, it comes with a single developer limit and restricted access."
+can you provide both cody and code search?,Certainly! There is indeed a bundled package available. $ 59
+can we buy cody and code search seperate?,Certainly! There is indeed a different package available. $9 for Cody and $49 code search
+I have never used AI assistant in my life. Can I take Cody as an AI assistant this?,"Yes, of course! You can consider Cody as your AI assistant for this task."
+Why should I trust Sourcegraph?,"You may trust Sourcegraph based on its industry reputation and proven track record in delivering reliable developer tools. The company emphasizes transparency, security, and adheres to industry standards for data protection. Positive feedback from satisfied customers and active community engagement contribute to its credibility. Sourcegraph offers comprehensive support and resources to users, including documentation and responsive customer service. Ultimately, your decision to trust Sourcegraph will depend on factors such as its alignment with your needs and values, as well as comparisons with other options in the market."
+Is there any prerequisite for buying this AI assistant ?,"No prerequisites are necessary for purchasing this AI assistant, although basic familiarity with technology and an understanding of AI concepts may be helpful."
+How do i deploy Sourcegraph Code Search? Can I run it self-hosted,Code Search can be deployed using Sourcegraph Cloud (we host) or Sourcegraph Self-hosted (you host).
+is my data secure when connected to code search?,"Sourcegraph has security and reliability controls built for the most demanding enterprises. To learn more, see our Security page."
+can i run both Code search and Cody enterprise?,You can purchase both Code Search Enterprise and Cody Enterprise and run them off of the same Sourcegraph deployment. Contact us to learn more.
+how can i pay for code search?,Code Search requires an annual contract. Contact us to learn more.
+what is the code intelligence Platform?,"The Code Intelligence Platform refers to the full platform offering from Sourcegraph. Today, this includes both the Cody and Code Search products, which are available at a discount when purchased as a bundle."
+How can i pay for the code Intelligence Platform plan?,The Code Intelligence Platform plan requires an annual contract. Contact us to learn more.
+Do we have an EMI option?,No
+"I have zero knowledge of AI and belong to a non-technical, can i able to use?","Yes, you can certainly use AI technologies even if you have zero technical knowledge"
+"Once purchased, is this course available for lifetime access?",Contact us
+How can I get help if I have a doubt and need support?,Contact us
+Will there be an upgraded when there are new features in Sourcegraph?,"Yes, we'll let you know!"
+What type of Programming language will it support?,All programming languages
+Does Sourcegraph work in Mac OS/Ubuntu?,Yes
+What is different in this AI assistant from thousands of others available online?,"Sourcegraph's AI assistant likely stands out due to its focus on code assistance, integration with development workflows, and advanced code understanding capabilities. It may offer customization options for developers and prioritize privacy and security features. However, without specific details, it's challenging to provide a comprehensive comparison with other AI assistants."
+how and where can i install sourcegraph?,"Visit the Sourcegraph website and navigate to the installation section, Download the appropriate installer for your operating system (e.g., Windows, macOS, Linux), and Follow the installation instructions provided on the website or in the downloaded package. Once installed, configure Sourcegraph settings as needed, Access Sourcegraph through your web browser by entering the specified URL or launching it from your applications menu."
+"Hi all, could someone please help me understand what I am writing wrong in this code?","Go to Sourcegraph (https://sourcegraph.com/search) and type this command
+
+Debug me this code ( copy paste your code)
+
+
+Why I am suggesting this way is once you learn it you will love it. 
+And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT, Sourcegraph, etc.)"
+"I am getting this error, what is wrong?","Go to Sourcegraph (https://sourcegraph.com/search) and type this command
+
+Debug me this code ( copy paste your code)
+
+
+Why I am suggesting this way is once you learn it you will love it. 
+And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT, Sourcegraph, etc.)"
+"Hey all, I have been trying this for past one hour but not working. ","Go to Sourcegraph (https://sourcegraph.com/search) and type this command
+
+Debug me this code ( copy paste your code)
+
+
+Why I am suggesting this way is once you learn it you will love it. 
+And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT, Sourcegraph, etc.)"
+"Hey all, I have been trying this for past one hour but not working. I am getting this error in my SQL code, what could be wrong?","Go to Sourcegraph (https://sourcegraph.com/search) and type this command
+
+Debug me this code ( copy paste your code)
+
+
+Why I am suggesting this way is once you learn it you will love it. 
+And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT, Sourcegraph, etc.)"
+when I am entering the index match formula in the cell outside the table it is working and when i enter the same formula inside the table cell it is showing a SPILL! error ..why?,"Go to Sourcegraph (https://sourcegraph.com/search) and type this command
+
+Debug me this code ( copy paste your code)
+
+
+Why I am suggesting this way is once you learn it you will love it. 
+And it will be SUPER USEFUL in your career when you get a data analyst jobs. Companies love folks who are capable of finding their answers on their own (Using Google, ChatGPT, Sourcegraph, etc.)"
+Can you explain more about your product?,"Yes, Please Visit our website (https://sourcegraph.com)"
+How can I contact you? if something goes wrong?," If you encounter any issues or need assistance, you can contact Sourcegraph support through  (File a public issue) mailto:support@sourcegraph.com"
